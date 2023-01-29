@@ -1,0 +1,11 @@
+{
+  "name": "clima",
+  "version": "1.0.0",
+  "description": "''\u001b[Dproyecto del clima'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "silva santiago\u001b[1;5D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[S\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[S\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C",
+  "license": "MIT"
+}
